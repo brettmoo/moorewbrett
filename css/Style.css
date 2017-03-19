@@ -1,0 +1,59 @@
+body,html {
+  background-image: url("../pics/Website4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left:0;
+  margin:0%;
+}
+.links{
+  padding-left: 35px;
+  padding-top: 20px;
+  position: fixed;
+
+}
+.outer {
+  position:fixed;
+  bottom: 20%;
+  left:2%;
+}
+job{
+  color: #EEEEEE;
+  margin: auto;
+  padding-left: 50px;
+  padding-bottom: 10px;
+  letter-spacing: 1.5px;
+  font-weight: .5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  letter-spacing: 2px;
+  padding-top: 400px;
+  padding-left: 100px;
+  padding-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: #EEEEEE;
+  font-variant: small-caps;
+}
+.button{
+  display:inline-block;
+  text-decoration: none;
+  color:#EEEEEE;
+  font-size: 15px;
+  min-width:100px;
+  min-height:30px;
+  font-weight: 2px;
+  text-align:center;
+  vertical-align: bottom;
+  margin:20px;
+  letter-spacing: 1.5px;
+  font-family: 'Pontano Sans', sans-serif;
+  }
+
+  .button:hover {
+    font-weight: bold;
+  }
